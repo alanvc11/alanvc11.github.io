@@ -1,0 +1,51 @@
+body{
+  background: linear-gradient(to right, white 50%, black 50%);
+}
+.about{
+  margin-left: 55%;
+  color: white;
+  margin-top: -3%;
+  font-family: arial;
+}
+.nome{
+  margin-left: 10%;
+  font-family: arial;
+}
+.link{
+  margin-left: 60%;
+  color: white;
+  margin-top: -33px;
+  font-family: arial;
+}
+.projetos{
+  margin-left: 67%;
+  color: white;
+  margin-top: -34px;
+  font-family: arial;
+}
+img{
+  margin-left: 43%;
+  height: 190px;
+  margin-top: 10%;
+  border-radius: 60%;
+  overflow: hidden;
+}
+.h2{
+  margin-left: 46%;
+  margin-top: 35px;
+  font-family: arial;
+}
+.h22{
+  margin-left: 680px;
+  margin-top: -47px;
+  color: white;
+  font-family: arial;
+}
+.p5{
+  margin-left: 73%;
+  color: white;
+  margin-top: -35px;
+}
+.destaque{
+  color: white;
+}
